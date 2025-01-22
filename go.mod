@@ -39,10 +39,15 @@ require (
 	google.golang.org/protobuf v1.34.2
 	gorm.io/driver/mysql v1.5.6
 	gorm.io/gorm v1.25.9
+	nhooyr.io/websocket v1.8.17
 )
 
 require (
+	github.com/coder/websocket v1.8.12 // indirect
 	github.com/hashicorp/go-uuid v1.0.3 // indirect
+	github.com/inconshreveable/mousetrap v1.1.0 // indirect
+	github.com/spf13/cobra v1.8.1 // indirect
+	github.com/spf13/pflag v1.0.5 // indirect
 	go.uber.org/goleak v1.2.1 // indirect
 )
 
